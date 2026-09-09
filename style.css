@@ -1,0 +1,63 @@
+header {
+    font-size: 60px;
+    text-align: center;
+    background: linear-gradient(
+        105deg,
+        rgba(255, 255, 255, 0.2) 39%,
+        rgba(51, 56, 57, 1) 96%
+    )
+    center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat,
+    rebeccapurple;
+}
+
+main {
+    font-size: 40px;
+    text-align: center;
+    line-height: 5;
+    background: linear-gradient(
+        105deg,
+        rgba(102, 224, 208, 0.2) 39%,
+        rgb(110, 155, 125) 96%
+    )
+    center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat,
+    rgb(51, 153, 110);
+}
+
+p {
+    font-size: 20px;
+    background: linear-gradient(
+        105deg,
+        rgba(5, 102, 57, 0.2) 39%,
+        rgb(21, 167, 70) 96%
+    )
+    center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat,
+    rgb(45, 161, 107);
+}
+
+footer {
+    font-size: 30px;
+    text-align: center;
+    line-height: 10;
+    background: linear-gradient(
+        105deg,
+        rgba(218, 112, 112, 0.2) 39%,
+        rgb(175, 25, 38) 96%
+    )
+    center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat,
+    rgb(214, 26, 42);
+}
+
+a {
+    background: linear-gradient(
+        105deg,
+        rgba(255, 255, 255, 0.2) 39%,
+        rgb(82, 21, 26) 96%
+    )
+    center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat,
+    rgb(182, 33, 40);
+}
